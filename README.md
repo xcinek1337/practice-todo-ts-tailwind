@@ -1,5 +1,5 @@
 
-# Project Title
+# Practicing tailwind in todo app
 
  first attemp with Tailwind 
  [![My Skills](https://skillicons.dev/icons?i=tailwind,tailwind,tailwind)](https://skillicons.dev)
