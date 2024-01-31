@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/practice-todo-ts-tailwind/static/css/main.48362103.css",
+    "main.js": "/practice-todo-ts-tailwind/static/js/main.a3cf2806.js",
+    "index.html": "/practice-todo-ts-tailwind/index.html",
+    "main.48362103.css.map": "/practice-todo-ts-tailwind/static/css/main.48362103.css.map",
+    "main.a3cf2806.js.map": "/practice-todo-ts-tailwind/static/js/main.a3cf2806.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48362103.css",
+    "static/js/main.a3cf2806.js"
+  ]
+}
